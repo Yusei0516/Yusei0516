@@ -28,8 +28,11 @@
 🚀 **Backend‑oriented developer** building with **Django + MySQL**
 
 🌍 **Location:** Japan 🇯🇵
+
 💼 **Focus:** Dockerized web apps on **AWS (EC2/ALB/RDS/NAT/S3/CloudWatch)**
+
 ☕ **Powered by:** Coffee and curiosity
+
 🎯 **Goal:** Robust infra + clean backend + pragmatic UX
 
 </td>
