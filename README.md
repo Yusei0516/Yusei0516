@@ -117,7 +117,7 @@
 * **HackNow** — Django + MySQL + Docker on AWS (ALB/EC2/RDS/NAT/S3)
 
   * Infra hardening, static/media handling, Nginx & Gunicorn, CloudWatch Alarms
-* **ChatApp (Flask → Django移行中)** — Auth, private/group/open chats, MySQL
+* **ChatApp (Flask)** — Auth, private/group/open chats, MySQL
 
 > More at **[Portfolio](https://yusei0516.github.io/portfolio/)**
 
