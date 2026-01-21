@@ -73,7 +73,7 @@
 
 ### 🖥️ **Backend / Platform**
 
-<img src="https://skillicons.dev/icons?i=python,flask,django,nginx" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,nginx" />
 
 ### 🗄️ **Database**
 
@@ -92,7 +92,7 @@
 
 ### 🎨 **Frontend (learning)**
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=react,ts,js" />
 
 ### 🔐 **Ops/Observability**
 
