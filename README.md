@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=python" width="100" height="100" />
+<img src="https://skillicons.dev/icons?i=python,aws" width="100" height="100" />
 </td>
 <td width="400" align="left">
 
